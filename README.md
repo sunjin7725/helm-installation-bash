@@ -3,7 +3,7 @@
 - [More details here!](https://helm.sh/docs/intro/install/)
 
 
-## JUST RUN THIS SHELL
+## Installation
 ```bash
 ./helm.sh
 ```
