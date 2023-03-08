@@ -5,5 +5,6 @@
 
 ## Installation
 ```bash
+chmod +x helm.sh
 ./helm.sh
 ```
